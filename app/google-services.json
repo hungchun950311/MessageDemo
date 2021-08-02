@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272494339451",
+    "project_id": "lccnotify-d42e4",
+    "storage_bucket": "lccnotify-d42e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272494339451:android:7de3e02457fa6bde5b09de",
+        "android_client_info": {
+          "package_name": "tw.com.hungchunlcc.messagedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272494339451-jska6q592i2llj1cd7jliqjpkbms3ock.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJJ0Az19N-LULbn_KXl3epCxxMEjCFLeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272494339451-jska6q592i2llj1cd7jliqjpkbms3ock.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
